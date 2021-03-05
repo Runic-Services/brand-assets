@@ -33,6 +33,15 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.3.0",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/logo-2k-trans-.png",
+    "mbrsiteDomain": "hunufqbrzc",
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 2,
     "versionPublish": "5.3.0"
   },
@@ -41,7 +50,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Runic Services Discord Server",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
